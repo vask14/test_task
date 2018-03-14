@@ -26,6 +26,7 @@ function getBestCode() {
     };
     return bestCodeObj;
 }
+
 function getOriginPrice() {
     originPriceObj = {
         originalPrice: originPrice
